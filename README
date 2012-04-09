@@ -1,1 +1,6 @@
-This file was created by JetBrains PhpStorm 3.0.3 for binding GitHub repository
+This Module is for Contao. It is for use with a special Grid-System.
+
+If you give every column a static width and a margin and use "alpha" and "omega"
+to reset the margins of the first and last column, then this module will help you.
+
+It searches the omega and adds a new div for clearing the float.
